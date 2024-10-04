@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Oving4/Oving4.iml" filepath="$PROJECT_DIR$/Oving4/Oving4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oving4O1/oving4O1.iml" filepath="$PROJECT_DIR$/oving4O1/oving4O1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oving5/oving5o1/oving5o1.iml" filepath="$PROJECT_DIR$/oving5/oving5o1/oving5o1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oving5/oving5o2/oving5o2.iml" filepath="$PROJECT_DIR$/oving5/oving5o2/oving5o2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Oving6/oving6o1/oving6o1.iml" filepath="$PROJECT_DIR$/Oving6/oving6o1/oving6o1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Oving6/oving6o2/oving6o2.iml" filepath="$PROJECT_DIR$/Oving6/oving6o2/oving6o2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Øvinger.iml" filepath="$PROJECT_DIR$/Øvinger.iml" />
+    </modules>
+  </component>
+</project>
