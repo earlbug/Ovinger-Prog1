@@ -10,7 +10,20 @@ public class ClassAnalyse {
 
     }
 
-    public int
+    public void leggTilTextIStatistikken(String inpText){
+        String text = inpText.toLowerCase();
+        for (int i = 0; i < text.length(); i++) {
+            int index = 29;
+            int gjeldendeTegn = text.codePointAt(i);
+            for (int j = 0; j < antallTegn.length-1; j++){
+                if (gjeldendeTegn == arrUnicode[j]){
+                    index = j;
+                }
+            }
+            antallTegn[index] ++;
+        }
+    }
+
 
     private int finnBokstavIndex(int uniIndex) {//trenger flere ganger, så lagde en funksjon
         int index = 29;
