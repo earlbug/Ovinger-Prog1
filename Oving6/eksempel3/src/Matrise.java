@@ -4,6 +4,7 @@ public final class Matrise {
     private final double[][] m;
     private static Scanner in;
 
+
     private Matrise(double[][] var1) {
         this.m = var1;
     }

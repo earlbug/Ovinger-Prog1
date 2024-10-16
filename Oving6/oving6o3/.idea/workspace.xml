@@ -4,37 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd11d3ed-d8a7-4fc8-a795-9730227864bc" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/Oving6.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example3/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example3/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example3/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example3/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example3/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example3/example3.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example3/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example3/src/Matrise.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/src/Matrise.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/src/test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled/untitled.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled1/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled1/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled1/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled1/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled1/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled1/src/Matrise.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled1/untitled1.iml" beforeDir="false" />
+    <list default="true" id="fd11d3ed-d8a7-4fc8-a795-9730227864bc" name="Changes" comment="oving 6 underveis">
+      <change beforePath="$PROJECT_DIR$/../eksempel3/src/Matrise.java" beforeDir="false" afterPath="$PROJECT_DIR$/../eksempel3/src/Matrise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Matrise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Matrise.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +53,7 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Bruker/OneDrive - NTNU/Documents/NTNU/1. semester/Prog1/Øvinger/Oving6/oving6o1",
+    "last_opened_file_path": "C:/Users/Bruker/OneDrive - NTNU/Documents/NTNU/1. semester/Prog1/Øvinger/Oving6/oving6o3",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -89,7 +63,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="untitled" />
@@ -129,7 +103,16 @@
       <workItem from="1728300101948" duration="2535000" />
       <workItem from="1728546627830" duration="16000" />
       <workItem from="1728547428753" duration="6580000" />
+      <workItem from="1728557838320" duration="8303000" />
     </task>
+    <task id="LOCAL−00001" summary="oving 6 underveis">
+      <option name="closed" value="true" />
+      <created>1728558007423</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1728558007423</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -146,16 +129,9 @@
       </map>
     </option>
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>1</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="oving 6 underveis" />
+    <option name="LAST_COMMIT_MESSAGE" value="oving 6 underveis" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
