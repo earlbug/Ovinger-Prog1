@@ -8,11 +8,6 @@ public class Main {
         testString.fjernBokstav('e');
         System.out.println(testString.fjernBokstav('e'));
 
-        System.out.println('e');
-        System.out.println('e' + 'e');
-        System.out.println('e' + 'e' + 'e');
-
-        System.out.println("e" + "e");
 
     }
 }
